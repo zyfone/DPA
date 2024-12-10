@@ -1,5 +1,5 @@
-# UniDAOD (Title to be updated)
-Code implementation for UniDAOD
+# Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment (DPA)
+Code implementation for Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment (DPA)
 
 ![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/UniDAOD) 
 ![ISSUES](https://img.shields.io/github/issues/zyfone/UniDAOD)
