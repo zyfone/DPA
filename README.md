@@ -8,4 +8,6 @@ Code implementation for Universal Domain Adaptive Object Detection via Dual Prob
 
 Code will be available soon!
 
+We are re-running the code to ensure the reproducibility of the results, and plan to release it on December 31st.
+
 *We did not report the best results in the paper due to the inherent instability of adversarial training. However, it is worth noting that the experimental outcomes from our code significantly exceed those mentioned in the paper.*
