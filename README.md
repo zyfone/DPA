@@ -60,9 +60,13 @@ CUDA_VISIBLE_DEVICES=0 python -u da_train_net.py \
 
 Test the well-trained model:
 ```bash
-python test_clipart_0.25.py
+python test_clipart_0.25.py >> test-voc025.out
 ```
 
+Train the model and test the well-trained model through the script:
+```bash
+sh train_scripts\train_voc2clipart_0.25.sh"
+```
 
 
 If you have any questions , please contact me at 478756030@qq.com
