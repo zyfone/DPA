@@ -65,7 +65,7 @@ python test_clipart_0.25.py >> test-voc025.out
 
 Train the model and test the well-trained model through the script:
 ```bash
-sh train_scripts\train_voc2clipart_0.25.sh"
+sh train_scripts\train_voc2clipart_0.25.sh
 ```
 
 
