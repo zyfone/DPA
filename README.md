@@ -1,11 +1,15 @@
 # Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment (DPA)
 Code implementation for Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment (DPA)
 
-![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/UniDAOD) 
-![ISSUES](https://img.shields.io/github/issues/zyfone/UniDAOD)
-![STARS](https://img.shields.io/github/stars/zyfone/UniDAOD)
 
+![LAST COMMIT](https://img.shields.io/github/last-commit/zyfone/DPA) 
+![ISSUES](https://img.shields.io/github/issues/zyfone/DPA)
+![STARS](https://img.shields.io/github/stars/zyfone/DPA)
 
+> [**Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment**](https://arxiv.org/abs/2412.11443)<br>
+> [Yuanfan Zheng<sup>1,2</sup>](https://github.com/zyfone/), [Jinlin Wu<sup>1,2</sup>](https://scholar.google.com/citations?user=XujjZmUAAAAJ&hl=zh-CN&oi=sra), [Wuyang Li<sup>3</sup>](https://wymancv.github.io/wuyang.github.io/), [Zhen Chen*<sup>1</sup>](https://franciszchen.github.io/)<br><sup>1</sup> CAIR, HKISI-CAS; <sup>2</sup> MAIS, Institute of Automation, Chinese Academy of Sciences; <sup>3</sup> The Chinese University of Hong Kong
+
+[**Zhi Hu (知乎)**](https://zhuanlan.zhihu.com/p/551158703)
 
 <div align="center">
   <img src="src\framework.png" alt="Framework" style="width: 100%; max-width: 450px;"/>
