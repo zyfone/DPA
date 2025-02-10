@@ -1,5 +1,5 @@
 # Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment (DPA)
-Code implementation for Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment (DPA) [**Zhi Hu (知乎)**](https://zhuanlan.zhihu.com/p/551158703)
+Code implementation for Universal Domain Adaptive Object Detection via Dual Probabilistic Alignment [**Zhi Hu (知乎)**](https://zhuanlan.zhihu.com/p/551158703)
 
 
 
